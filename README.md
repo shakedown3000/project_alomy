@@ -45,4 +45,4 @@ The project is deployed and accessible online. Visit [Project Alomy Deployment](
 
 This project was created to showcase creativity and design skills in the realm of fashion, aiming to inspire and captivate visitors with its aesthetic appeal.
 
-![Project Alomy Screenshot](/assets/Alomy_Screenshot_2.png)
+![Project Alomy Screenshot](/assets/Alomy%20Screenshot_2.png)
